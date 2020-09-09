@@ -49,3 +49,15 @@ a {
 	margin: 0 auto;
 	width:50%
 }
+
+/*--Media Queries--*/
+@media screen and (max-width:1000px) {
+	body {
+		background-color:grey;
+}
+}
+@media screen and (max-width:500px){
+	body {
+		background-color: white;
+	}
+}
