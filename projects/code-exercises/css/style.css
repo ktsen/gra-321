@@ -26,8 +26,8 @@ a {
 	color:black;
 	display:block;
 	font-family:Roboto, Arial, sans-serif;
-	padding:1em 2em 1em 2em;
-	width: 20%;
+	padding:2em;
+	width: 50%;
 	text-decoration:none;
 	text-transform:uppercase;
 }
@@ -36,7 +36,8 @@ a {
 	background-color: black;
 	border:none;
 	color:white;
-	padding: 1em 2em 1em 2em;
+	padding: 2em;
+	width: 25%;
 }
 
 .visited-gray:visited {
