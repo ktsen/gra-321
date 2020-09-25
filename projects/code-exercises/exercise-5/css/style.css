@@ -1,7 +1,36 @@
-* {
-
-}
+/**import Neue Haas Grotesk Display**/
+@import url("https://use.typekit.net/rly8moz.css");
 
 h1 {
-
+	background-color: white;
+	color: black;
+	font-family: neue-haas-grotesk-display, helvetica, "sans-serif";
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 48px;
+	letter-spacing: 0px;
+	text-align: left;
 }
+
+h2{
+	background-color: white;
+	color: black;
+	font-family: "Times New Roman", Times, "serif";
+	line-spacing: -20px;
+	font-size: 20px;
+	line-height: 28px;
+	text-align: left;
+	width: 35%;
+}
+
+p{
+	background-color: white;
+	color: black;
+	font-family: neue-haas-grotesk-display, helvetica, "sans-serif";
+	font-weight: 300;
+	font-size: 15px;
+	text-align: left;
+	line-height: 20px;
+	letter-spacing: 0px;
+}
+
