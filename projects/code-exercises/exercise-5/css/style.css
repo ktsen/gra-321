@@ -1,6 +1,9 @@
 /**import Neue Haas Grotesk Display**/
 @import url("https://use.typekit.net/rly8moz.css");
-
+div{
+	width: 1440px;
+	padding: 48px 60px 109px 80px;
+}
 h1 {
 	background-color: white;
 	color: black;
@@ -10,7 +13,6 @@ h1 {
 	line-height: 48px;
 	letter-spacing: 0px;
 	text-align: left;
-	padding: 40px 40px 10px 40px;
 }
 
 h2{
@@ -22,7 +24,6 @@ h2{
 	line-height: 28px;
 	text-align: left;
 	width: 35%;
-	padding: 10px 40px 20px 40px;
 }
 
 p{
@@ -34,14 +35,12 @@ p{
 	text-align: left;
 	line-height: 20px;
 	letter-spacing: 0px;
-	padding: 20px 40px 20px 40px;
-	width: 1302px;
 }
 /* Two image container */
 .column {
 	float: left;
 	width: 50%;
-	padding: 20px 300px 20px 60px;
+	padding: 20px;
 }
 .row::after{
 	content: "";
