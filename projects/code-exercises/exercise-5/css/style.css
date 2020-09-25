@@ -2,7 +2,7 @@
 @import url("https://use.typekit.net/rly8moz.css");
 div{
 	width: 1440px;
-	height: 1024px;
+	height: auto;
 	padding-right:60px;
 	padding-left: 80px;
 	background-color: white;
