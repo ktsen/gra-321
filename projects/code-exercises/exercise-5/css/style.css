@@ -39,4 +39,5 @@ p{
 
 .imgContainer{
 	display:inline-block;
+	float:left;
 }
