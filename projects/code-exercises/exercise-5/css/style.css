@@ -38,6 +38,5 @@ p{
 /* Two image container */
 
 .imgContainer{
-	display:inline-block;
-	float:left;
+	display: flex;
 }
