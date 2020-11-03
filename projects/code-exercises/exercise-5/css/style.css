@@ -41,3 +41,9 @@ p{
 	float: left;
 	width: 33.3%;
 }
+
+.row::after {
+	content:"";
+	clear:both;
+	display: table;
+}
