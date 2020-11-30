@@ -19,7 +19,7 @@
 
 .home-background {
   height: 901px;
-  background-image: url('https://github.com/ktsen/gra-321/blob/master/projects/responsive-project/img/Iced-Coffee-Drink.jpg?raw=true');
+  background-image: url('../images/Iced-Coffee-Drink.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
